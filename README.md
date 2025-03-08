@@ -29,11 +29,11 @@ This project is a simple yet effective **registration form** with built-in JavaS
 ### 🚀 How to Run  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/Website-registration-form
    ```
 2. **Navigate to the project folder**  
    ```sh
-   cd your-repo-name
+   cd Website-registration-form
    ```
 3. **Open `index.html` in a browser**  
 
@@ -46,7 +46,8 @@ This project is a simple yet effective **registration form** with built-in JavaS
 | Password   | Required, minimum 8 characters |
 
 ### 🎨 UI Preview  
-![Form Preview](https://via.placeholder.com/500x300) *(Replace with actual screenshot)*  
+![Form Preview](https://via.placeholder.com/500x300) *![image](https://github.com/user-attachments/assets/d1678c44-e455-4526-82e2-c7f563fd059d)
+*  
 
 ### 🤝 Contribution  
 Feel free to fork this project and improve it! Open an issue or submit a pull request if you have any suggestions.  
