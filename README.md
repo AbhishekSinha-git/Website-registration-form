@@ -14,7 +14,7 @@ This project is a simple yet effective **registration form** with built-in JavaS
 
 ### 📂 Project Structure  
 ```
-/project-folder
+/Website-registration-form
 │── index.html       # HTML file for the form structure
 │── styles.css       # CSS file for styling the form
 │── validation.js    # JavaScript file for handling validation
