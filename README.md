@@ -1,5 +1,7 @@
 ## Registration Form with JavaScript Validation  
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 ### 📌 Project Overview  
 This project is a simple yet effective **registration form** with built-in JavaScript validation. It ensures users enter valid details before submitting the form. The form includes fields for **First Name, Last Name, Email, and Password**, and uses event handling to enforce validation rules.  
 
