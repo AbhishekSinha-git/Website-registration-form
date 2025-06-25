@@ -42,10 +42,10 @@ This project is a simple yet effective **registration form** with built-in JavaS
 ### 📝 Validation Rules  
 | Field      | Validation Rule |
 |------------|--------------------------------|
-| First Name | Required, only letters allowed |
-| Last Name  | Required, only letters allowed |
-| Email      | Required, must follow email format |
-| Password   | Required, minimum 8 characters |
+| First Name | Required, only letters allowed. |
+| Last Name  | Required, only letters allowed. |
+| Email      | Required, must follow email format. |
+| Password   | Required, minimum 8 characters. |
 
 ### 🎨 UI Preview  
 ![image](https://github.com/user-attachments/assets/d1678c44-e455-4526-82e2-c7f563fd059d)
